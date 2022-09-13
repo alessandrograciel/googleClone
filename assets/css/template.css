@@ -137,7 +137,7 @@ li.login a:hover{
     line-height: 34px;
     border: 0;
     font-size: 16px;
-    background-color: #fff;
+    background-color: rgb(255, 255, 255) ;
 }
 .itens input{
   outline: none;
